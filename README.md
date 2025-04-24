@@ -1,4 +1,4 @@
-Trabalho de conclusão de Curso - DESENVOLIMENTO DE SISTEMAS
+Trabalho de conclusão de Curso - DESENVOLVIMENTO DE SISTEMAS
 
 AUTOMAÇÃO RESIDENCIAL UTILIZANDO ESP32
 
